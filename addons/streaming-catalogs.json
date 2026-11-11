@@ -1,7 +1,0 @@
-{
-  "name": "Streaming Catalogs",
-  "id": "pw.ers.netflix-catalog",
-  "manifestUrl": "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/manifest.json",
-  "configureUrl": "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/",
-  "description": "Streaming-service movie and series catalogs (Netflix, HBO Max, Disney+, Prime Video, Apple TV+). Used by Kaptain collection addon catalog references."
-}
